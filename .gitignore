@@ -1,0 +1,10 @@
+Debug/main.obj
+Debug/Move.Build.CppClean.log
+*.lastbuildstate
+Debug/Move.log
+*.tlog
+Debug/vc120.idb
+*.pdb
+Move.vcxproj
+*.filters
+Move.vcxproj.user
